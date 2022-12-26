@@ -24,12 +24,17 @@ exports.config = {
     //
     specs: [
         //configure the js files to run
-            './test/specs/**/*.js'    
+            './test/specs/**/Test.js'    
     ],
     // Patterns to exclude.
     exclude: [
         // 'path/to/excluded/files'
     ],
+    //Define suites
+    suites: {
+        smoke: [
+        ]
+    },
     //
     // ============
     // Capabilities
@@ -137,8 +142,6 @@ exports.config = {
     // see also: https://webdriver.io/docs/dot-reporter
     reporters: ['spec'],
 
-
-    
     //
     // Options to be passed to Mocha.
     // See the full list at http://mochajs.org/
