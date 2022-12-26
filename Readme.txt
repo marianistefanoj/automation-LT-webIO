@@ -13,7 +13,7 @@ It has 9h hours of classes and this is my first time trying to automate anything
 There are some relevant points about the project:
 
 - Skills:
-> as i mentioned, i have no previous skills basically with webdriverIO and javascript (but i understand that it was desirable)
+> as i mentioned, i have no previous skills basically with webdriverIO and basic skills/contact with javascript (but i understand that it was desirable)
 because of this i did my best trying to do it as much as i can considering that i watched 9 hours of classes
 and spent like ~12h coding by myself all.
 
