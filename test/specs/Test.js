@@ -1,6 +1,7 @@
 describe("Login, Add Item to Cart, Checkout, Complete", () => {
 
     let itemListFromInventoryToCart;
+    const searchText = "Backpack";
 
     it("LOGIN: Logs into application to continue to next steps", async () => {
         
@@ -66,7 +67,7 @@ describe("Login, Add Item to Cart, Checkout, Complete", () => {
        //list of elements found with the partial name
        const listFromInventoryAdded = []; 
        // partial name of the item that i'm looking for
-       const searchText = "Backpack"; 
+        
        
        
        count = 0; //count for the position counter
