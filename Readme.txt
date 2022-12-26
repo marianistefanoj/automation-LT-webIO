@@ -1,3 +1,9 @@
+
+- To run : 
+> is necessary node installed at the machine
+> needs to run npm install (console/gitbash) download node_modules
+> to execute, needs to type npx wdio at the console (gitbash)
+
 Hello,
 Thanks for read.
 As the intention is understand more about my skills on automation
@@ -5,11 +11,6 @@ I tryied to do the same exercise using webdriverIO without a previous contact wi
 I only recent bought the course : https://www.udemy.com/course/webdriverio-complete-beginner-course/
 It has 9h hours of classes and this is my first time trying to automate anything with webdriverIO
 There are some relevant points about the project:
-
-- To run : 
-> is necessary node installed at the machine
-> needs to run npm install to install node_modules
-> to execute, needs to type npx wdio at the console (gitbash)
 
 - Skills:
 > as i mentioned, i have no previous skills basically with webdriverIO and javascript (but i understand that it was desirable)
