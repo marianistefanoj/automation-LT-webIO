@@ -3,6 +3,7 @@
 > is necessary node installed at the machine
 > needs to run npm install (console/gitbash) download node_modules
 > to execute, needs to type npx wdio at the console (gitbash)
+> at line 4 you can change the item, if the string is "" or an item that does not exists it will give an assertion error at test 3 validating that the button add to cart hasn't changed because there's no item with the name that has been used, if you use with the text 'sauce' pore example will add al item who has Sauce on it's name, if you use backpack for example will work perfectly just for backpack item
 
 Hello,
 Thanks for read.
