@@ -20,7 +20,7 @@ and spent like ~12h coding by myself all.
 - Design Pattern:
 > at the course classes the teacher uses page objects, and is really nice, but i had some 'problems' on my project,
 that i think, that a person with maybe more knowledge could spend less time trying to solve than me.
-> when i was coding page objects for testing following exactly what the class teaches, i did the export at the class that i would use at my test script.js
+> when i was coding page objects for testing following exactly what the course teaches, i did the export at the class that i would use at my test script.js
 but when i went run the project, i got errors like:
 >> 'Unable to load spec files quite likely because they rely on `browser` object that is not fully initialised.'
 >> 'SyntaxError: Cannot use import statement outside a module'
